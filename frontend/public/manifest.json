@@ -1,0 +1,25 @@
+{
+  "short_name": "Préfecture MARRAKECH",
+  "name": "Préfecture de Marrakech - Système de gestion administrative",
+  "icons": [
+    {
+      "src": "logo-prefecture.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "logo-prefecture.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-prefecture.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d4a4a4",
+  "background_color": "#fdf2f8"
+}
